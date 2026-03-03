@@ -7,7 +7,6 @@ draft: true
 
 This page describes the technical differences and limitations you'll face depending on which profile you've chosen. This can help you as a reminder of the technical limitations and how to fix them. It can also help you choosing wether or not its easier sanitizing your data versus using a profile 3.
 
-
 ## Profile 1 (Unclassified / Experimental) particulars
 
 This profile is the level we've always offered. It is designed to use only unclassified data inside. It also means it has the least amount of restrictions.  
